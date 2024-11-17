@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: lucasasilvaa/gitops
-  newTag: 9204ed9053c185a2cdc1c23906997c00f4b7d4ae
+  newTag: 224e2f99c2e3035e5d6e71db621a83ba825a7fe1
